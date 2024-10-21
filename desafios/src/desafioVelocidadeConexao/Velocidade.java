@@ -1,3 +1,4 @@
+package desafioVelocidadeConexao;
 import java.util.Scanner;
 
 public class Velocidade {
